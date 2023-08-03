@@ -1,8 +1,3 @@
-# React + Vite
+The instructions on this workshop need some work. They were super confusing. Specifically the "Selected Contact View" tab. It would tell you to do one thing then the example contradicts the instructions. I spent too much time wondering what I was supposed to be doing. I'm putting a pin in this one for now. Got very stuck around #8 on that "Selected Contact View" tab. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Also, why do none of the workshops use arrow functions?
