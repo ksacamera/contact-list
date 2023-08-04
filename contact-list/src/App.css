@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+th {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 28pt;
+  font-weight: bold;
+}
+
+#row {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+body {
+  gap: 20px;
+}

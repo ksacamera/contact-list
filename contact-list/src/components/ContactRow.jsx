@@ -1,11 +1,15 @@
-import React from 'react';
+import React from "react";
 
-const ContactRow = ({ name, email, phone }) => {
+const ContactRow = ({ contact, setSelectedContactId }) => {
   return (
-    <tr>
-      <td>{name}</td>
-      <td>{email}</td>
-      <td>{phone}</td>
+    <tr
+      onClick={() => {
+        setSelectedContactId(contact.id);
+      }}
+    >
+      <td>{contact.name}</td>
+      <td>{contact.email}</td>
+      <td>{contact.phone}</td>
     </tr>
   );
 };
